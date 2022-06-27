@@ -100,7 +100,7 @@ let projects = [
     },
     {
         name: 'DevFolio - Landing Page',
-        image: 'imgs/reactPortfolio.PNG',
+        image: 'imgs/divfolioimg.PNG',
         githPage: 'https://mohamedh89.github.io/mydevfolio/',
         code: 'https://github.com/MohamedH89/mydevfolio',
         skills: ['React', 'HTML', 'SASS', 'JavaScript', 'Bootstrap', 'Fontawesome']
