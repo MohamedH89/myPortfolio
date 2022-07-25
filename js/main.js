@@ -71,39 +71,18 @@ document.querySelector('.skill').innerHTML = cartoona;
 // Projects
 let projects = [
     {
-        name: 'Fokir - Landing Page',
-        image: 'imgs/fokir.PNG',
-        githPage: 'https://amrhassanz.github.io/Fokir/',
-        code: 'https://github.com/AmrHassanz/Fokir',
-        skills: ['HTML5', 'SASS', 'JavaScript', 'Bootstrap', 'Fontawesome']
-    },
-    {
-        name: 'Shortly - Link Shortner',
-        image: 'imgs/shortly.PNG',
-        githPage: 'https://amrhassanz.github.io/Link-Shortner/',
-        code: 'https://github.com/AmrHassanz/Link-Shortner/tree/master',
-        skills: ['React', 'Context', 'HTML', 'SASS', 'JavaScript', 'Bootstrap', 'Fontawesome', 'Joi', 'Axios']
-    },
-    {
-        name: 'Barberry - Ecommerce Store',
-        image: 'imgs/barberry.PNG',
-        githPage: 'https://amrhassanz.github.io/Barberry/',
-        code: 'https://github.com/AmrHassanz/Barberry',
-        skills: ['React', 'Context', 'HTML', 'SASS', 'JavaScript', 'Bootstrap', 'Fontawesome']
-    },
-    {
-        name: 'Portfolio - React Portfolio',
-        image: 'imgs/reactPortfolio.PNG',
-        githPage: 'https://amrhassanz.github.io/StartReact/',
-        code: 'https://github.com/AmrHassanz/StartReact',
-        skills: ['React', 'HTML', 'SASS', 'Framer-Motion', 'JavaScript', 'Bootstrap', 'Fontawesome']
-    },
-    {
         name: 'DevFolio - Landing Page',
         image: 'imgs/divfolioimg.PNG',
         githPage: 'https://mohamedh89.github.io/mydevfolio/',
         code: 'https://github.com/MohamedH89/mydevfolio',
         skills: ['React', 'HTML', 'SASS', 'JavaScript', 'Bootstrap', 'Fontawesome']
+    },
+    {
+        name: 'Fokir - Landing Page',
+        image: 'imgs/fokir.PNG',
+        githPage: 'https://mohamedh89.github.io/myFokir/',
+        code: 'https://github.com/MohamedH89/myFokir',
+        skills: ['HTML', 'css', 'Bootstarp', 'JavaScript']
     }
 ];
 let myProjects = '';
