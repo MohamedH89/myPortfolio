@@ -83,6 +83,13 @@ let projects = [
         githPage: 'https://mohamedh89.github.io/myFokir/',
         code: 'https://github.com/MohamedH89/myFokir',
         skills: ['HTML', 'css', 'Bootstarp', 'JavaScript']
+    },
+    {
+        name: 'MovieDB - Landing Page',
+        image: 'imgs/MovieDB.PNG',
+        githPage: 'https://mohamedh89.github.io/movieDB/',
+        code: 'https://github.com/MohamedH89/movieDB',
+        skills: ['React','HTML', 'css','SASS', 'Bootstarp', 'JavaScript']
     }
 ];
 let myProjects = '';
