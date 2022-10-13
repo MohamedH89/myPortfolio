@@ -71,6 +71,13 @@ document.querySelector('.skill').innerHTML = cartoona;
 // Projects
 let projects = [
     {
+        name: 'BuildCon - Landing Page',
+        image: 'imgs/buildcon.PNG',
+        githPage: 'https://mohamedh89.github.io/buildconproject/',
+        code: 'https://github.com/MohamedH89/buildconproject',
+        skills: ['HTML', 'CSS', 'Bootstrap']
+    },
+    {
         name: 'DevFolio - Landing Page',
         image: 'imgs/divfolioimg.PNG',
         githPage: 'https://mohamedh89.github.io/mydevfolio/',
