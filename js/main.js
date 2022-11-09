@@ -78,6 +78,13 @@ let projects = [
         skills: ['HTML', 'CSS', 'Bootstrap']
     },
     {
+        name: 'Education Courses - Landing Page',
+        image: 'imgs/education.PNG',
+        githPage: ' https://mohamedh89.github.io/education_website/',
+        code: 'https://github.com/MohamedH89/education_website',
+        skills: ['HTML', 'CSS', 'JavaScript', 'swiperjs', 'iconscout']
+    },
+    {
         name: 'DevFolio - Landing Page',
         image: 'imgs/divfolioimg.PNG',
         githPage: 'https://mohamedh89.github.io/mydevfolio/',
