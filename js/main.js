@@ -85,18 +85,25 @@ let projects = [
         skills: ['HTML', 'CSS', 'JavaScript', 'swiperjs', 'iconscout']
     },
     {
-        name: 'DevFolio - Landing Page',
-        image: 'imgs/divfolioimg.PNG',
-        githPage: 'https://mohamedh89.github.io/mydevfolio/',
-        code: 'https://github.com/MohamedH89/mydevfolio',
-        skills: ['React', 'HTML', 'SASS', 'JavaScript', 'Bootstrap', 'Fontawesome']
-    },
-    {
         name: 'Fokir - Landing Page',
         image: 'imgs/fokir.PNG',
         githPage: 'https://mohamedh89.github.io/myFokir/',
         code: 'https://github.com/MohamedH89/myFokir',
         skills: ['HTML', 'css', 'Bootstarp', 'JavaScript']
+    },
+    {
+        name: 'Fitness - Landing Page',
+        image: 'imgs/fitness000.PNG',
+        githPage: 'https://mohamedh89.github.io/fitness/',
+        code: 'https://github.com/MohamedH89/fitness',
+        skills: ['React', 'HTML', 'css', 'JavaScript']
+    },
+    {
+        name: 'DevFolio - Landing Page',
+        image: 'imgs/divfolioimg.PNG',
+        githPage: 'https://mohamedh89.github.io/mydevfolio/',
+        code: 'https://github.com/MohamedH89/mydevfolio',
+        skills: ['React', 'HTML', 'SASS', 'JavaScript', 'Bootstrap', 'Fontawesome']
     },
     {
         name: 'MovieDB - Landing Page',
