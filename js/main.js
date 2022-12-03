@@ -92,6 +92,13 @@ let projects = [
         skills: ['HTML', 'CSS', 'JavaScript', 'swiperjs', 'iconscout']
     },
     {
+        name: 'Coffee Shop - Landing Page',
+        image: 'imgs/coffee10.png',
+        githPage: '  https://mohamedh89.github.io/coffee-shop/',
+        code: 'https://github.com/MohamedH89/coffee-shop',
+        skills: ['HTML', 'CSS', 'JavaScript']
+    },
+    {
         name: 'Fokir - Landing Page',
         image: 'imgs/fokir.PNG',
         githPage: 'https://mohamedh89.github.io/myFokir/',
