@@ -93,7 +93,7 @@ let projects = [
     },
     {
         name: 'Coffee Shop - Landing Page',
-        image: 'imgs/coffee10.png',
+        image: 'imgs/coffee10.PNG',
         githPage: '  https://mohamedh89.github.io/coffee-shop/',
         code: 'https://github.com/MohamedH89/coffee-shop',
         skills: ['HTML', 'CSS', 'JavaScript']
