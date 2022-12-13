@@ -99,6 +99,13 @@ let projects = [
         skills: ['HTML', 'CSS', 'JavaScript']
     },
     {
+        name: 'Travel Agency - Landing Page',
+        image: 'imgs/travel.PNG',
+        githPage: 'https://mohamedh89.github.io/Travel-Agency/',
+        code: 'https://github.com/MohamedH89/Travel-Agency',
+        skills: ['HTML', 'CSS', 'JavaScript']
+    },
+    {
         name: 'Covid-19 - Landing Page',
         image: 'imgs/covid-19.PNG',
         githPage: 'https://mohamedh89.github.io/covid-19/',
